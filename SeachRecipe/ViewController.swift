@@ -95,7 +95,6 @@ class ViewController: UIViewController {
         self.query = searchTextField.text!
         fetchInformation(query: searchTextField.text!)
     }
-    
 }
 
 extension Data {
